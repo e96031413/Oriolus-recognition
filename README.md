@@ -14,3 +14,9 @@ You could follow the articles below to train your own model and deploy to any de
 **2. Use the model to classify**
 
 [TensorFlow 2.0學習筆記(2)：預訓練影像分類模型使用](https://medium.com/@yanweiliu/tensorflow-2-0-image-classification-with-pre-trained-model-47505a56d4cb)
+
+## Colab
+
+Noticing: You should modify the code to fit your situation.(Folder Name, File name etc.)
+
+[Tensorflow_Image_Classification_PB_Model_on_Colab.ipynb](https://colab.research.google.com/drive/1AGYyZhp-sm5peVEpf91Dp1mToYmDhPY_)
